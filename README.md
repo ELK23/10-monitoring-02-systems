@@ -93,11 +93,11 @@
 
 | Система          | Pull | Push | Гибрид |
 |-----------------|------|------|--------|
-| **Prometheus**       | ✅ Да  | ❌ Нет  | ⚡ Гибрид (с Pushgateway) |
+| **Prometheus**       |  Да  |  Нет  |  Гибрид (с Pushgateway) |
 | **TICK (Telegraf, InfluxDB, Chronograf, Kapacitor)** | ❌ Нет | ✅ Да  | ❌ Нет |
-| **Zabbix**          | ✅ Да (Passive mode)  | ✅ Да (Active mode)  | ⚡ Гибрид |
-| **VictoriaMetrics** | ✅ Да  | ✅ Да  | ⚡ Гибрид |
-| **Nagios**         | ✅ Да  | ❌ Нет  | ❌ Нет |
+| **Zabbix**          |  Да (Passive mode)  |  Да (Active mode)  |  Гибрид |
+| **VictoriaMetrics** |  Да  |  Да  |  Гибрид |
+| **Nagios**         |  Да  |  Нет  |  Нет |
 #
 7. Склонируйте себе [репозиторий](https://github.com/influxdata/sandbox/tree/master) и запустите TICK-стэк, 
 используя технологии docker и docker-compose.
