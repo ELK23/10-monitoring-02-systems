@@ -94,7 +94,7 @@
 | Система          | Pull | Push | Гибрид |
 |-----------------|------|------|--------|
 | **Prometheus**       |  Да  |  Нет  |  Гибрид (с Pushgateway) |
-| **TICK (Telegraf, InfluxDB, Chronograf, Kapacitor)** | ❌ Нет | ✅ Да  | ❌ Нет |
+| **TICK (Telegraf, InfluxDB, Chronograf, Kapacitor)** |  Нет |  Да  |  Нет |
 | **Zabbix**          |  Да (Passive mode)  |  Да (Active mode)  |  Гибрид |
 | **VictoriaMetrics** |  Да  |  Да  |  Гибрид |
 | **Nagios**         |  Да  |  Нет  |  Нет |
