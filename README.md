@@ -106,6 +106,8 @@
 
 P.S.: если при запуске некоторые контейнеры будут падать с ошибкой - проставьте им режим `Z`, например
 `./data:/var/lib:Z`
+### Скриншот метрик
+![image](https://github.com/user-attachments/assets/08c0e651-ea67-4b4e-b039-8114d3d628b7)
 #
 8. Перейдите в веб-интерфейс Chronograf (http://localhost:8888) и откройте вкладку Data explorer.
         
